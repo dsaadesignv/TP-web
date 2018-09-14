@@ -37,7 +37,7 @@
 - **L'ensemble des sélecteurs et propriétés du langage CSS https://developer.mozilla.org/fr/docs/Web/CSS/Reference**
 ---
 - Maintenant ouvrez le fichier `index.html` dans le navigateur en lançant l'extension `atom-live-server` : Packages > atom-live-server > Start server. Si l'extension n'est pas installée : Package > Settings View > Install Packages/Themes. Puis recherchez le package `atom-live-server`. Installez-le et rédémarrez Atom.
-- L'intérêt de atom-live-server est que la page s'actualisera dès que vous modifierez le code, sans avoir à rafraîchir la page. Modifiez le titre pour tester.
+- L'intérêt de atom-live-server est que la page s'actualisera dès que vous modifierez le code, sans avoir à rafraîchir la page. Lancez le serveur Packages > atom-live-server > Start server. Le navigateur ouvre la page automatiquement. Modifiez le titre de la page HTML et enregistrez pour tester. La page se rafraîchit automatiquement et affiche le contenu modifié.
 - Intégrer maintenant le reste du contenu de manière en vous référent à la documentation : https://developer.mozilla.org/fr/docs/Web/HTML/Element. Vous utiliserez les balises `header`, `a` (lien hypertexte), `img`, `h2` (titre de second niveau), et `p` (paragraphe)
 
 ## Mettre en forme le contenu avec CSS
