@@ -34,7 +34,7 @@
             <time></time><!-- balise time pour contenir la date -->
         </figcaption><!-- fin de la légende de l'image -->
     </figure><!-- fin de la balise figure -->
-<script type="text/javascript" src="js/jquery-2.1.4.min.js"></script>
+<script type="text/javascript" src="js/jquery-3.3.1.min.js"></script>
 <script type="text/javascript" src="js/scripts.js"></script>
 </body>
 </html>
@@ -42,7 +42,7 @@
 
 - La page fait référence à 2 scripts `.js` :
 	- La (fameuse) bibliothèque jQuery qui donne accès à un grand nombre de fonctions via une écriture simplifiée.
-	- Un fichier .js dans lequel nous écrirons les scripts nécessaires.
+	- Un fichier .js dans lequel nous écrirons les scripts nécessaires. Vous devez donc créer ce nouveau fichier `scripts.js` et le placer dans un dossier `js`. Aucun script ne sera écrit dans le fichier HTML.
 - Ces scripts sont chargés en bas de page, juste avant la fermeture de la balise `body`. Le squelette étant en place nous travaillerons uniquement dans le fichier `scripts.js`.
 
 ### Se connecter à une API
