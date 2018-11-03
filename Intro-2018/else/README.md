@@ -23,7 +23,7 @@
     </form><!-- fin du formulaire -->
     </header> <!-- fin header -->
 
-    <iframe id="video-nasa" width="960" height="1" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe><!-- iframe pour charger la page du player Youtube -->
+    <iframe id="video-nasa" width="960" height="570" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe><!-- iframe pour charger la page du player Youtube -->
     <figure><!-- puisqu'il s'agit d'un média nous utilisons la balise figure -->
         <img id="image-nasa"><!-- image de la figure -->
         <figcaption><!-- figcaption est une balise enfant (c'est-à-dire contenue par) de la balise figure -->
