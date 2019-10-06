@@ -135,5 +135,5 @@ $('#form').on('submit', function(){
 
 ```
 
-#M# Et avec une autre API de la Nasa ?
+## Et avec une autre API de la Nasa ?
 - Maintenant que vous avez compris le principe et que vous disposez d'une clé API, attaquez-vous à celle des images de Mars Rover par exemple : https://api.nasa.gov/api.html#MarsPhotos
