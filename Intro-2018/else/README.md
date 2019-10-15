@@ -46,7 +46,7 @@
 - Ces scripts sont chargés en bas de page, juste avant la fermeture de la balise `body`. Le squelette étant en place nous travaillerons uniquement dans le fichier `scripts.js`.
 
 ### Se connecter à une API
-- Étape 1 : Récupérer une clé API auprès de la NASA 🚀. Rdv ici : https://api.nasa.gov/index.html#live_example
+- Étape 1 : Récupérer une clé API auprès de la NASA 🚀. Rdv ici : https://api.nasa.gov/
 - Étape 2 : Tester la clé API en allant sur cette URL : https://api.nasa.gov/planetary/apod?api_key=VOTRE_CLÉ.
 - Nous allons maintenant nous connecter à l'API avec Javascript. Dans le fichier scrips.js nous allons appeler la fonction `$.getJSON()` de jQuery et lui passer l'adresse testée auparavant, et afficher le résultat dans la console :
 
